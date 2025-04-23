@@ -11,6 +11,8 @@ body{
   overflow: auto;
   writing-mode: vertical-rl;
   text-orientation: upright;
+  font-feature-settings:"pkna";
+  font-family:"Yu Mincho" , "游明朝";
 }
 
 /* 作品タイトル */
