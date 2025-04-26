@@ -27,6 +27,8 @@ body{
   letter-spacing: 0.1em;
   line-height: 1.8em;
   white-space: pre-wrap;
+   text-combine-upright: all;
+  font-feature-settings: "palt"; 
 }
  
 
